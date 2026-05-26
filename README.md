@@ -103,8 +103,7 @@ This project is currently under review. We are preparing the dataset, and pretra
 @electronic{LDATLASLOC2024,
   author       = {D. Li and T. Yang and S. Qin and Y. Zhang and J. Li},
   title        = {{LD-AtlasLoc}: Map Construction for Long-Term Relocalization},
-  year         = {2024},
-  howpublished = {Online}. Available: \url{https://github.com/Ld-slam/LD-AtlasLoc},
+  year         = {2026},
   note         = {To be published}
 }
 ```
