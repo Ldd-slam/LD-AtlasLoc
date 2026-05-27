@@ -7,11 +7,11 @@
     <strong>Zhang Yisu</strong> |
     <strong>Li Jing</strong>
   </p>
-  <h3 align="center">
+  <!-- <h3 align="center">
     <a href="https://robot-vision.net/">Paper</a> |
     <a href="https://www.youtube.com/watch?v=1-a3fRpCcGE">YouTube Demo</a> |
     <a href="https://v.qq.com/x/page/s32753laghj.html">Tencent Demo</a> 
-  </h3>
+  </h3> -->
 </p>
 
 <h2 align="center">Qualitative Comparisons</h2>
