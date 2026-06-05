@@ -96,10 +96,10 @@ This project is currently under review. We are preparing the dataset, and pretra
 
 
 ```bibtex
-@electronic{LDATLASLOC2024,
+#@electronic{LDATLASLOC2024,
   author       = {D. Li and T. Yang and S. Qin and Y. Zhang and J. Li},
-  title        = {{LD-AtlasLoc}: Map Construction for Long-Term Relocalization},
+  title        = {{LD-AtlasLoc}: Long-Distance Monocular Aerial Image Localization with Geo-Referenced Sparse Maps under GNSS-Degraded and Appearance-Changing Conditions},
   year         = {2026},
-  note         = {To be published}
+  note         = {Wait to be published}
 }
 ```
