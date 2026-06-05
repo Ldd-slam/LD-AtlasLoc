@@ -95,11 +95,11 @@ We cover three representative low-altitude urban environments:
 This project is currently under review. We are preparing the dataset, and pretrained models for public release. More materials will be made available after the review process is completed.
 
 
-```bibtex
+<!-- ```bibtex
 #@electronic{LDATLASLOC2024,
   author       = {D. Li and T. Yang and S. Qin and Y. Zhang and J. Li},
   title        = {{LD-AtlasLoc}: Long-Distance Monocular Aerial Image Localization with Geo-Referenced Sparse Maps under GNSS-Degraded and Appearance-Changing Conditions},
   year         = {2026},
   note         = {Wait to be published}
 }
-```
+``` -->
