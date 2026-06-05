@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">LD-AtlasLoc: Robust Monocular Relocalization for GNSS-Degraded UAVs</h1>
+  <h1 align="center">LD-AtlasLoc: Long-Distance Monocular Aerial Image Localization with Geo-Referenced Sparse Maps under GNSS-Degraded and Appearance-Changing Conditions</h1>
   <p align="center">
     <strong>Li Dongdong</strong> |
     <strong>Yang Tao</strong> |
