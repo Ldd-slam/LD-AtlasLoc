@@ -50,7 +50,7 @@ Accurate, long-distance UAV and eVTOL navigation remains a critical challenge in
 
 
 ## DEMO
-(https://github.com/Ldd-slam/LD-AtlasLoc/blob/main/demo.mp4)
+https://github.com/Ldd-slam/LD-AtlasLoc/blob/main/demo.mp4
 
 
 
