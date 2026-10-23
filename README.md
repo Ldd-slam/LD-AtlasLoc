@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">LD-AtlasLoc: Robust Monocular Relocalization for GNSS-Degraded UAVs</h1>
+  <h1 align="center">LD-AtlasLoc: Long-Distance Monocular Aerial Image Localization with Geo-Referenced Sparse Maps under GNSS-Degraded and Appearance-Changing Conditions</h1>
   <p align="center">
     <strong>Li Dongdong</strong> |
     <strong>Yang Tao</strong> |
@@ -93,18 +93,23 @@ We cover three representative low-altitude urban environments:
 
 ## Dataset Access
 
-- [Baidu Netdisk](https://robot-vision.net/)
+- [Baidu Netdisk](https://pan.baidu.com/s/1QL3i6Cz4F0489Y-cX65Z4Q?pwd=3spe/)
 
 
-This project is currently under review. We are preparing the dataset, and pretrained models for public release. More materials will be made available after the review process is completed.
+## Dataset Access
+
+
+- [Team Introduction](https://robot-vision.net/)
+- [Personal Email](1051196347@qq.com)
+
+
 
 
 ```bibtex
 @electronic{LDATLASLOC2024,
   author       = {D. Li and T. Yang and S. Qin and Y. Zhang and J. Li},
-  title        = {{LD-AtlasLoc}: Map Construction for Long-Term Relocalization},
+  title        = {{LD-AtlasLoc}: Long-Distance Monocular Aerial Image Localization with Geo-Referenced Sparse Maps under GNSS-Degraded and Appearance-Changing Conditions},
   year         = {2024},
   howpublished = {Online}. Available: \url{https://github.com/Ld-slam/LD-AtlasLoc},
-  note         = {To be published}
 }
 ```
