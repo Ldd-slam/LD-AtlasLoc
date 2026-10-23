@@ -49,13 +49,18 @@ Accurate, long-distance UAV and eVTOL navigation remains a critical challenge in
 **LD-AtlasLoc** is a monocular visual relocalization framework designed for **intermittent GNSS-degraded scenarios**. It bridges the gap between high-precision mapping and robust online localization.
 
 
+## DEMO
+(https://github.com/Ldd-slam/LD-AtlasLoc/blob/main/demo.mp4)
+
+
+
 ## Dataset Description
 
 
+<video controls width="720">
+  <source src="https://github.com/Ldd-slam/LD-AtlasLoc/releases/download/v1.0/demo.mp4" type="video/mp4">
+</video>
 
-<p align="center">
-  <img src="./media/dataset-showcase.png" alt="FHY_dataset scene overview" width="100%">
-</p>
 
 
 
