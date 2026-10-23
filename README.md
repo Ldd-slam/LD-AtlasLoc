@@ -91,25 +91,28 @@ We cover three representative low-altitude urban environments:
 | **City3-outskirts** | ​Suburban / Rural Fringe | **Sparse vegetation** and **repetitive ground textures** leading to feature scarcity. |
 
 
+### 1. Data Description​
+The compressed files City1-buildings.rar, City2-skyscrapers.rar, and City3-outskirts.rar contain image data. The original resolution of 5472×3648 has been downscaled to 1805×1203.
+### 2. RTK-GNSS Information​
+Each image retains RTK-GNSS information with centimeter-level accuracy, which can be used for mapping and ground-truth error evaluation.
+### 3. Data Collection Details​
+Multiple sequences per scene were recorded along the same trajectory across different times. Trajectories are not strictly repeated, with ~20 m deviations in all directions to simulate realistic flight perturbations, thereby enabling robust evaluation of localization across diverse parallax views.
+
 ## Dataset Access
 
 - [Baidu Netdisk](https://pan.baidu.com/s/1QL3i6Cz4F0489Y-cX65Z4Q?pwd=3spe/)
 
 
-## Dataset Access
-
-
-- [Team Introduction](https://robot-vision.net/)
+## Contact
+- [Personal Email](https://robot-vision.net/)
 - [Personal Email](1051196347@qq.com)
-
-
 
 
 ```bibtex
 @electronic{LDATLASLOC2024,
   author       = {D. Li and T. Yang and S. Qin and Y. Zhang and J. Li},
   title        = {{LD-AtlasLoc}: Long-Distance Monocular Aerial Image Localization with Geo-Referenced Sparse Maps under GNSS-Degraded and Appearance-Changing Conditions},
-  year         = {2024},
-  howpublished = {Online}. Available: \url{https://github.com/Ld-slam/LD-AtlasLoc},
+  year         = {2026},
+  howpublished = {Online}. Available: \url{https://github.com/Ldd-slam/LD-AtlasLoc},
 }
-```
+```d
