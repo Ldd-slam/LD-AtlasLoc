@@ -61,7 +61,9 @@ https://github.com/Ldd-slam/LD-AtlasLoc/blob/main/demo.mp4
   <source src="https://github.com/Ldd-slam/LD-AtlasLoc/releases/download/v1.0/demo.mp4" type="video/mp4">
 </video>
 
-
+<p align="center">
+  <img src="./media/dataset-showcase.png" alt="Dataset showcase" width="100%">
+</p>
 
 
 
