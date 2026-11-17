@@ -52,22 +52,24 @@ Accurate, long-distance UAV and eVTOL navigation remains a critical challenge in
 ## DEMO
 https://github.com/Ldd-slam/LD-AtlasLoc/blob/main/demo.mp4
 
+<video controls width="720">
+  <source src="https://github.com/Ldd-slam/LD-AtlasLoc/releases/download/v1.0/demo.mp4" type="video/mp4">
+</video>
 
 
 ## Dataset Description
 
 
-<video controls width="720">
-  <source src="https://github.com/Ldd-slam/LD-AtlasLoc/releases/download/v1.0/demo.mp4" type="video/mp4">
-</video>
+
+
+
+
+LD-AtlasLoc is constructed to reflect **real-world low-altitude flight constraints**, covering diverse urban and suburban environments. Unlike conventional datasets, it focuses on flight-compliant trajectories and challenging environmental conditions.
 
 <p align="center">
   <img src="./media/dataset-showcase.png" alt="Dataset showcase" width="100%">
 </p>
 
-
-
-LD-AtlasLoc is constructed to reflect **real-world low-altitude flight constraints**, covering diverse urban and suburban environments. Unlike conventional datasets, it focuses on flight-compliant trajectories and challenging environmental conditions.
 
 ### 🚁 Flight Profile & Compliance
 - **Realistic Altitude:** Flights are conducted at **120–150 m**, aligning with typical low-altitude logistics and urban eVTOL operational limits.
