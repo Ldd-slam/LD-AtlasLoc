@@ -8,7 +8,7 @@
     <strong>Li Jing</strong>
   </p>
   <h3 align="center">
-    <a href="https://robot-vision.net/">Paper</a> |
+    <a href="https://www.sciencedirect.com/science/article/pii/S092427162600537X">Paper</a> |
     <a href="https://www.youtube.com/watch?v=1-a3fRpCcGE">YouTube Demo</a> |
     <a href="https://v.qq.com/x/page/s32753laghj.html">Tencent Demo</a> 
   </h3>
@@ -109,15 +109,20 @@ Multiple sequences per scene were recorded along the same trajectory across diff
 
 
 ## Contact
-- [Personal Email](https://robot-vision.net/)
+- [Team Introduction](https://robot-vision.net/) 
 - [Personal Email](1051196347@qq.com)
 
 
 ```bibtex
-@electronic{LDATLASLOC2024,
-  author       = {D. Li and T. Yang and S. Qin and Y. Zhang and J. Li},
-  title        = {{LD-AtlasLoc}: Long-Distance Monocular Aerial Image Localization with Geo-Referenced Sparse Maps under GNSS-Degraded and Appearance-Changing Conditions},
-  year         = {2026},
-  howpublished = {Online}. Available: \url{https://github.com/Ldd-slam/LD-AtlasLoc},
+@article{LI2027970,
+title = {LD-AtlasLoc: Long-distance monocular aerial image localization with geo-referenced sparse maps under GNSS-degraded and appearance-changing conditions},
+journal = {ISPRS Journal of Photogrammetry and Remote Sensing},
+volume = {243},
+pages = {970-988},
+year = {2027},
+issn = {0924-2716},
+doi = {https://doi.org/10.1016/j.isprsjprs.2026.10.040},
+url = {https://www.sciencedirect.com/science/article/pii/S092427162600537X},
+author = {Dongdong Li and Tao Yang and Shuo Qin and Yisu Zhang and Jing Li},
 }
 ```d
